@@ -66,34 +66,34 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: Daniel Dominguez</h1>
+
+            <p>Current/Recent Job Title: Campus Safety Assistant at Lewis University</p>
         </header>
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
+            <p>I am in charge of locking and unlocking doors, jumpstarting vehicles, and various safety procedures. </p>
         </section>
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>I grew up fishing on the coast of South Florida and I really enjoy cast netting but I also like to play the guitar, bass, and drums on my free time.</p>
         </section>
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
+            <p>I am pursuing my degree in Aviation Flight Technology because I want to become an aerial firefighter</p>
         </section>
 
         <section class="course">
             <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>I am taking this course to fulfill a requirement in my minor in UAS.</p>
         </section>
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>I don't think gators are that scary honestly they're just chill if you leave them alone.</p>
         </section>
     </div>
 </body>
